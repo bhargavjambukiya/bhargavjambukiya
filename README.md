@@ -12,36 +12,31 @@ Frameworks & Libraries: Flutter, Android SDK
 Tools & Platforms: Git, Firebase, AWS, Google Cloud, Android Studio, Xcode
 Mobile Development: Responsive UI, State Management, REST API Integration, Firebase Authentication, Push Notifications, In-App Purchases
 Projects
-ArtistOnGo:
-ArtistOnGo is a revolutionary platform empowering stylists to break free from traditional constraints. With ArtistOnGo, stylists can rent salon space hourly or monthly, establish their own rules, and retail their products. Our comprehensive resources enable independent work, ensuring fair earnings and unlimited creativity. Embrace the future of the salon industry with us as we redefine the status quo, placing you at the forefront.
+Serve First:
+Serve First is an Android tablet app for collecting customer feedback with customizable, dynamic questions. It supports multiple locations, enabling owners to view all feedback and surveys in one centralized place. The app stores data locally and uploads it to the server every 30 minutes. Additionally, it features dynamic color customization to suit user preferences or brand identity.
 
-Key Features:
+1.Share post:
+Share Post is a mobile application designed for crafting customized social media posts, allowing users to tailor content for their business, events, festivals, and more. Users can download and easily view their downloaded posts.
 
-Search salon by location
-Subscription Management
-Salon Pass Options (Monthly and Hourly)
-Flexible Booking Options (Hourly, Full Day, Recurring)
-Alerts for Subscription Renewal
-Coupon Code and Referral System
-Life99:
-Life99 is a fintech and insuretech project focused on comprehensive retirement planning solutions tailored to address the challenges of high living costs and inflation. Integrated functionalities include creating PRAN numbers, facilitating NPS and EPF investments, and managing corporate onboarding seamlessly. By emphasizing early planning, compounded returns, and lower annual investments, we ensure users can retire stress-free with sustainable income streams. Our platform prioritizes user-friendly interfaces and robust security measures to safeguard financial data, promoting trust and reliability in achieving long-term financial goals.
+2.First Audit:
+First Audit is a survey app that allows users to create location-specific surveys with a dynamic question layout. Surveys are stored locally, and users can easily view both submitted and incomplete surveys.
 
-Phyllo-insta:
-This project revolves around developing a Google Chrome extension for Instagram, aiming to streamline the experience for influencers, advertisers, and campaign managers. As the Technical Lead and full-stack developer, I integrated Python (FastAPI) for the backend and ReactJS for the frontend.
+3.EMT DEVICE:
+This application securely Connects to the EMT’s master card and senddesignfilesdatatoS2P cards via Mastercard. S2P card then sends the data to end equipment to further operate magnetic heads to generate clothes.
 
-The extension tracks real-time Instagram data and presents it through interactive graphs. Key metrics such as engagement rates, follower trends, age distribution, and gender demographics are visualized, empowering users to make informed decisions swiftly. This tool enhances user insights and facilitates strategic planning by providing clear visibility into performance metrics, thereby optimizing social media strategies effectively.
-
-BuilderCRM:
-As the Tech Lead for BuilderCRM, I enhanced software development efficiency by implementing Agile methodologies and optimizing team workflows. I mentored junior developers, cultivating a culture of continuous learning and skill enhancement within the team. By streamlining code review processes, I elevated overall code quality and significantly reduced the time spent on revisions. Additionally, I played a pivotal role in designing and constructing databases and table structures essential for robust web applications, ensuring scalability and performance optimization.
+4.Poem Design:
+Users can purchase products from the app and users will add products as scannable objects in the app. Users can scan products and view their image, video, audio attached with their product and view AR effects.
 
 ## Get in Touch
--GitHub: https://github.com/bhargavjambukiya
--LinkedIn: www.linkedin.com/in/bhargav-jambukiya-30959582
--Email: bhargavjambukiya2611@gmail.com
+- GitHub: [Bhargav Jambukiya](https://github.com/bhargavjambukiya)
+- LinkedIn: [Bhargav Jambukiya](www.linkedin.com/in/bhargav-jambukiya-30959582)
+- Email: bhargavjambukiya2611@gmail.com
+
+
+  
 Let's connect and discuss exciting opportunities!
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bhargavjambukiya&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bhargavjambukiya&layout=compact&langs_count=8&theme=dark"/>
 </p>
-Feel free to adapt further as needed!
