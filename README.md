@@ -34,10 +34,10 @@ The extension tracks real-time Instagram data and presents it through interactiv
 BuilderCRM:
 As the Tech Lead for BuilderCRM, I enhanced software development efficiency by implementing Agile methodologies and optimizing team workflows. I mentored junior developers, cultivating a culture of continuous learning and skill enhancement within the team. By streamlining code review processes, I elevated overall code quality and significantly reduced the time spent on revisions. Additionally, I played a pivotal role in designing and constructing databases and table structures essential for robust web applications, ensuring scalability and performance optimization.
 
-Get in Touch
-GitHub: https://github.com/bhargavjambukiya
-LinkedIn: www.linkedin.com/in/bhargav-jambukiya-30959582
-Email: bhargavjambukiya2611@gmail.com
+## Get in Touch
+-GitHub: https://github.com/bhargavjambukiya
+-LinkedIn: www.linkedin.com/in/bhargav-jambukiya-30959582
+-Email: bhargavjambukiya2611@gmail.com
 Let's connect and discuss exciting opportunities!
 
 <p align="center">
