@@ -37,6 +37,6 @@ Users can purchase products from the app and users will add products as scannabl
 Let's connect and discuss exciting opportunities!
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bhargavjambukiya&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bhargavjambukiya&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bhargavjambukiya&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bhargavjambukiya&layout=compact&langs_count=8&theme=dark&cache_seconds=86400"/>
 </p>
