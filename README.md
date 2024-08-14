@@ -1,12 +1,13 @@
 Hello, I am Bhargav Jambukiya 👋
 I'm a passionate Android and Flutter developer with experience in building high-performance mobile applications. Welcome to my GitHub profile! Here you'll find a collection of projects, experiments, and contributions reflecting my journey in the world of mobile app development.
 
-About Me
-💼 Currently working as an Android and Flutter developer.
-🌱 I’m continuously learning and exploring new technologies.
-👯 I’m open to collaboration on interesting projects.
-💬 Let's connect! Feel free to reach out to me.
-Skills
+## About Me
+- 💼 Currently working as an Android and Flutter developer.
+- 🌱 I’m continuously learning and exploring new technologies.
+- 👯 I’m open to collaboration on interesting projects.
+- 💬 Let's connect! Feel free to reach out to me.
+
+## Skills
 Languages: Dart, Kotlin, Java
 Frameworks & Libraries: Flutter, Android SDK
 Tools & Platforms: Git, Firebase, AWS, Google Cloud, Android Studio, Xcode
@@ -15,6 +16,7 @@ Projects
 Serve First:
 Serve First is an Android tablet app for collecting customer feedback with customizable, dynamic questions. It supports multiple locations, enabling owners to view all feedback and surveys in one centralized place. The app stores data locally and uploads it to the server every 30 minutes. Additionally, it features dynamic color customization to suit user preferences or brand identity.
 
+## Projects
 1.Share post:
 Share Post is a mobile application designed for crafting customized social media posts, allowing users to tailor content for their business, events, festivals, and more. Users can download and easily view their downloaded posts.
 
